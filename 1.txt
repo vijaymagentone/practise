@@ -3,3 +3,4 @@ dont expect this
 i know this...;ladsjdfl;jsdf
 chalthe..chatle...
 i expect jenkins build does not invoke becauese i disabled poll scm 
+yes. build was not invoked , we are doing good

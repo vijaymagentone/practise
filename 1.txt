@@ -2,3 +2,4 @@ hi this is 1.txt
 dont expect this
 i know this...;ladsjdfl;jsdf
 chalthe..chatle...
+i expect jenkins build does not invoke becauese i disabled poll scm 
